@@ -14,13 +14,11 @@
 @import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-
-
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 74, 239, 152; /* The main highlight color */
   --rgb-background: 0, 9, 0; /* The main background color */
-  --rgb-text: 74, 239, 152; /* The color (almost) all text should use */
+  --rgb-text: 211, 211, 211; /* The color (almost) all text should use */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
   --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
